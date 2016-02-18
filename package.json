@@ -1,0 +1,23 @@
+{
+  "name": "farbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/farbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jmunowitch@github.com/fargeo/farbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fargeo/farbot/issues"
+  },
+  "homepage": "https://github.com/fargeo/farbot#readme",
+  "dependencies": {
+    "slackbots": "^0.5.1",
+    "sqlite3": "^3.1.1"
+  }
+}
