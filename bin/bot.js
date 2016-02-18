@@ -43,6 +43,7 @@ app.get('/', function(request, response) {
     response.send(result);
 }).listen(app.get('port'), function() {
     console.log('App is running, server is listening on port ', app.get('port'));
+});
 
 later.date.localTime();
 
